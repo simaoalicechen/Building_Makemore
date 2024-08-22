@@ -1,0 +1,1 @@
+An attempt to recreate what Andrej Karpathy has done in his tutorial Building Makemore series (Neural Networks: Zero to Hero). 
