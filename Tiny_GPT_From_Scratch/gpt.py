@@ -1,5 +1,4 @@
-# This is mostly directly copy pasted from https://github.com/karpathy/ng-video-lecture/blob/master/gpt.py
-# my variantions and notes are noted throughout
+# This is mostly directly copy pasted from https://github.com/karpathy/ng-video-lecture/blob/master/gpt.py  only for completion purpose
 
 import torch
 import torch.nn as nn
