@@ -1,3 +1,5 @@
+# this is directly from https://github.com/karpathy/build-nanogpt/blob/master/fineweb.py
+# I may rebuild this file later, but the focus is on the notebook now. 
 """
 FineWeb-Edu dataset (for srs pretraining)
 https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu

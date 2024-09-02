@@ -1,3 +1,6 @@
+# this is directly from https://github.com/karpathy/build-nanogpt/blob/master/hellaswag.py
+# I may rebuild this file later, but the focus is on the notebook now. 
+
 """
 Downloads and evaluates HellaSwag in Python.
 https://github.com/rowanz/hellaswag
