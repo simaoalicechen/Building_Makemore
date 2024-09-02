@@ -1,6 +1,6 @@
-# Goal: follow and recreate what Andrej Karpathy has done in his tutorial Building Makemore series (Neural Networks: Zero to Hero). https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+## Goal: follow and recreate what Andrej Karpathy has done in his tutorial Building Makemore series (Neural Networks: Zero to Hero). https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
-Here are short descriptions for the contents in each folder: 
+## Here are short descriptions for the contents in each folder: 
 
 ## MakeMore_DL_Review
 
@@ -16,4 +16,5 @@ This section includes code for the byte-level Byte Pair Encoding (BPE) algorithm
 
 This algorithm was popularized for LLMs by the GPT-2 paper and the associated GPT-2 code release from OpenAI. The original reference for using BPE in NLP applications is cited as Sennrich et al. (2015). Today, all modern LLMs (e.g., GPT, Llama, Mistral) use this algorithm to train their tokenizers.
 
-### For completeness, this repository also includes implementations of Bigram, Tiny GPT and MakeMore as Python scripts in corresponding folders, closely mirroring the versions from Andrej’s repository.
+### For completeness, this repository also includes implementations of Bigram, Tiny GPT, MakeMore, Tokenization, and GPT2 as Python scripts in corresponding folders, closely mirroring the versions from Andrej’s repository. My current focus is on notebooks; I may come back and rewrite Python scripts on my own later. 
+
