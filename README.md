@@ -18,7 +18,7 @@ This section includes code for the byte-level Byte Pair Encoding (BPE) algorithm
 
 This algorithm was popularized for LLMs by the GPT-2 paper and the associated GPT-2 code release from OpenAI. The original reference for using BPE in NLP applications is cited as Sennrich et al. (2015). Today, all modern LLMs (e.g., GPT, Llama, Mistral) use this algorithm to train their tokenizers.
 
-### For completeness, this repository also includes implementations of Bigram, Tiny GPT, MakeMore, Tokenization, and GPT2 as Python scripts in corresponding folders, closely mirroring the versions from Andrej’s repository. My current focus is on notebooks; I may come back and rewrite Python scripts later. 
+### For completeness, this repository also includes implementations of Bigram, Tiny GPT, MakeMore, Tokenization, and GPT2 as Python scripts in corresponding folders, directly taken from Andrej’s repository. My current focus is on notebooks. I may come back and rewrite Python scripts later. 
 
 #### His original repos: 
 ##### DL Zero to Hero: https://github.com/karpathy/nn-zero-to-hero
